@@ -38,3 +38,16 @@ README: tradicionalmente usado para indicar que é um arquivo que deve ser lido 
 * diskpart: Permite gerenciar um disco através do CMD, podendo formatar, excluir, criar e modificar partições, atribuir letras de unidade e etc.
 
 * ipconfig: Mostra as informações da sua rede, como: IPV4, Máscara Sub-rede, Gateway e Servidor DNS.
+---
+
+## 👤 Autor
+Gabriel Camargo da Silva
+
+## 📅 Data
+17/09/2025
+
+## 📧 Contato
+gabriel.csilva89@senacsp.edu.br - BielCamargoSenacSP
+
+## 🧠 O que aprendi?
+Aprendi a como criar um arquivo .MD e a sua utilidade, criando o arquivo através de pequenos comandos e dentro do programa Visual Studio Code.
